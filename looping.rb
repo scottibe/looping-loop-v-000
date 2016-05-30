@@ -1,5 +1,16 @@
 def looping
-	#your code here
+  loop do 
+   puts "Wingardium Leviosa"
+  end
 end
 
-#call your method here
+looping
+
+
+def looping
+  loop do 
+   puts "Scott Bewick Never Ends"
+  end
+end
+
+looping
